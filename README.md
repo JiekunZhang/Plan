@@ -1,1 +1,1 @@
-# blog_plan
+# Week & Month Plan
